@@ -7,3 +7,4 @@
 - [GBA tech ref](https://problemkaputt.de/gbatek.htm)
 - [GSMagic](https://drive.google.com/drive/folders/1zZHTBD_7BTl6leXRgFulzSL9iS4TIBMt)
 - [GSTLA Editor](http://forum.goldensunhacking.net/index.php?topic=1936.0)
+- [Golden Sun compression tools](https://github.com/romhack/GoldenSunCompression)
