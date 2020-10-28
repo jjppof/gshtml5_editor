@@ -1,4 +1,4 @@
-# goldensun_extractor
+# gshtml5_editor
 
 - [GSTLA docs](https://docs.google.com/document/d/1nsDI-Bx6p65X25CPGdJOk8K-WVsYjYTBEN-i_bR8bdk/edit)
 - [Image Palettes](http://forum.goldensunhacking.net/index.php?topic=297)
